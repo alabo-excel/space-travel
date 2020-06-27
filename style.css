@@ -1,0 +1,64 @@
+body{
+    overflow: hidden;
+    font-family: sans-serif;
+}
+ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 30px;
+    flex-direction: row-reverse;
+}
+ul{
+    float: right;
+    margin-top: 40px;
+}
+body{
+    background-color: rgb(14, 11, 11);
+    color: white;
+}
+.text{
+    float: left;
+    width: 40%;
+    margin-left: 150px;
+}
+h2{
+    margin-top: 90px;
+    font-size: 80px;
+
+    font-weight: lighter;
+}
+p{
+    font-size: 22px;
+    margin-top: -50px;
+}
+.space{
+    float: right;
+    width: 40%;
+}
+.space img{
+    width: 100%;
+    position: relative;
+    top: 70px;
+    right: -180px;
+}
+input{
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 15px;
+    width: 130px;
+    background-color: rgb(10, 158, 216);
+    color: white;
+
+}
+.icons{
+    margin-left: 70%;
+    margin-top: 130px;
+}
+.icons i{
+    margin-right: 20px;
+}
+.text img{
+    position: absolute;
+    left: -70px;
+}
